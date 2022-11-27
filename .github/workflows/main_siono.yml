@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'siono'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2FC49F6601C4429C85D406D282314150 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA83C867C2174D65B7A1B71BE1A193C3 }}
           package: .
